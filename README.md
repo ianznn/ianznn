@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @ianznn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Boas Vindas ao Meu Perfil😎
 
-<!---
-ianznn/ianznn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Meu nome é Ian Leuche
+
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+- ### Você entrar em contato comigo 📫
+- ian.leuche@escola.pr.gov.br
+- @ianzn.y3
 
 
+![](https://media.tenor.com/COM78THbePQAAAAd/neymar.gif)
